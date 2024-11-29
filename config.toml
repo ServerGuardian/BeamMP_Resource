@@ -1,0 +1,10 @@
+[General]
+# Your API Key from https://sg.beammp.com/portal
+APIKey = ""
+# It is recommended that this is set to false.
+AllowGuests = false
+
+
+[Experimental]
+# Do you want chat moderation? EXPERIMENTAL
+ModerateChat = false
